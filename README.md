@@ -65,15 +65,7 @@ Expected completion date unknown, however most of the information you need to ha
         color: var(--white-color);
     }
 </style>
-
-    <div class="bot-desc-main-div">
     <blockquote class="infoquote">
         <p><strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to get started?</strong></p>
         <p><i>Just write </i><u>PO!help</u><i> in order to view the command menu. There you can browse every command</i></p>
     </blockquote>
-    <hr>
-    <p><strong>◄ <img draggable="false" class="emoji" src="https://cdn.discordapp.com/emojis/832628899069820938.png?v=1"> FISHING ►</strong> <strong class="small-text">PO!fish</strong></p>
-    <blockquote>
-        <p> &nbsp;&nbsp;Fish to get fish and some miscellaneous items!</p>
-    </blockquote>
-    <p><strong>◄ <img draggable="false" class="emoji" src="https://cdn.discordapp.com/emojis/762039243518115880.gif?v=1"> WORKING ►</strong> <strong class="small-text">PO!work</strong></p>
