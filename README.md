@@ -13,7 +13,7 @@ If you want a full rundown of our policy contact a support staff member, they wi
 
 <h6>Completed embed formatting and research into discords API terms. Construction of full embed and final research is ongoing. (25%), Adding to the policy and adding fields (0%), Add detail and law concentration (0%), check data is within Discord, HIPPA and GDPR agreements (50%), Display full usage of data and information of our service (5%), Locate any data storage points and make sure they are secure (75%), Explain your data usage and storage (20%), other (0%)</h6>
 
-<h5>Data Storage</h5>
+<h3>Data Storage</h3>
 
 <blockquote>
 <p><strong>Your data is not stored on the bot, unless you are a Premium User (to store your User ID to allow the bot to detect your Premium), Premium servers (same reason), Accolades (to give credit in the whois command)...
