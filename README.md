@@ -16,6 +16,6 @@ If you want a full rundown of our policy contact a support staff member, they wi
 <h5>Data Storage</h5>
 
 <blockquote>
-<p>Your data is not stored on the bot, unless you are a Premium User (to store your User ID to allow the bot to detect your Premium), Premium servers (same reason), Accolades (to give credit in the whois command)...
-Expected completion date unknown, however most of the information you need to have will be completed as soon as possible to help you feel safe using our bot, rather than feeling that any of the data is abused...</p>
+<p><strong>Your data is not stored on the bot, unless you are a Premium User (to store your User ID to allow the bot to detect your Premium), Premium servers (same reason), Accolades (to give credit in the whois command)...
+Expected completion date unknown, however most of the information you need to have will be completed as soon as possible to help you feel safe using our bot, rather than feeling that any of the data is abused...</strong></p>
 </blockquote>
