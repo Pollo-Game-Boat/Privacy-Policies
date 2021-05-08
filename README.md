@@ -31,7 +31,6 @@ It is strongly recommended to check this message often, referring to the date of
 
 
 
-
 <h6><small>Policy creation in progress [##--------] 20%</small></h6>
 
 <h3>Póllo Game Bot's <i>Privacy Policy</i> is a WIP</h3>
