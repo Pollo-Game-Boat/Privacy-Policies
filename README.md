@@ -17,22 +17,22 @@ Users who are uncertain about which Personal Data is mandatory are welcome to co
 ### <b>How `Do Not Track` requests are handled?</b></h4>
 
 <blockquote>
-<p>This bot does not support `Do Not Track` requests. 
-@Póllo Game Bot#0822 just takes your Username & Tag, Avatar, Discord ID.</p>
+<p><strong><b>This bot does not support `Do Not Track` requests. 
+@Póllo Game Bot#0822 just takes your Username & Tag, Avatar, Discord ID.</strong></b></p>
 </blockquote>
 
 ### <b>How `Data Removal` requests are handled?</b></h4>
 
 <blockquote>
-<p>This bot supports `Data Removal` Requests.
-We will wipe all of your stored Data off of our bot, on request.</p>
+<p><strong><b>This bot supports `Data Removal` Requests.
+We will wipe all of your stored Data off of our bot, on request.</strong></b></p>
 </blockquote>
 
 ### <b><i>Changes to this privacy policy</i></b>
 
 <blockquote>
-<p><i>The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this server or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. 
-It is strongly recommended to check this message often, referring to the date of the last modification listed at the bottom.</i></p>
+<p><strong><b><i>The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this server or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. 
+It is strongly recommended to check this message often, referring to the date of the last modification listed at the bottom.</i></strong></b></p>
 </blockquote>
 
-<p><i>If you would like to reach out to us, you can email us at Support@PolloBot.Xyz</i>.  Or contact Póllo Official#3207</p>
+<p><strong><b><i>If you would like to reach out to us, you can email us at Support@PolloBot.Xyz</i>.  Or contact Póllo Official#3207.</strong></b></p>
