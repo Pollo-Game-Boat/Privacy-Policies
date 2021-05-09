@@ -27,4 +27,4 @@ We will wipe all of your stored Data off of our bot, on request.</p>
 <p><i>The Owner reserves the right to make changes to this privacy policy at any time by notifying its Users on this page and possibly within this server or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. 
 It is strongly recommended to check this message often, referring to the date of the last modification listed at the bottom.</i></p>
 
-<p><b>Last but not least, you're Data is safe with us!</b></p>
+<p><i>If you would like to reach out to use you can email us at <u>Support@PolloBot.Xyz</u></i>  Or contact Póllo Official#3207</p>
