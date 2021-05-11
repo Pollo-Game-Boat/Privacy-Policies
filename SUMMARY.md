@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Privacy-Policy](README.md)
+* [Getting Started](README.md)
 
