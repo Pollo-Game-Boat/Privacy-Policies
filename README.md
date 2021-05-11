@@ -6,8 +6,6 @@ description: Setting Up!
 
 ## Setup
 
-The Privacy Policy for Póllo Game Bot
-
 {% hint style="warning" %}
 Set Welcome & Set Join Role are both currently being worked on.
 {% endhint %}
