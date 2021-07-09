@@ -13,6 +13,12 @@ Personal Data may be freely provided by the User, or, in case of Usage Data, col
 Unless specified otherwise, all data is stored by the bot for three months or longer if we suspect abuse to our bot's services.  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact the Owner <code>Developer Póllo#3207</code>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
 </blockquote>
 
+### <b> User Rights</b></h4>
+
+<blockquote>
+  <p><strong><b>The User has the right to stop providing their data that we store by completely stopping the use of the bot.</strong></b></p>
+</blockquote>
+
 ### <b>How <code>Do Not Track</code> requests are handled?</b></h4>
 
 <blockquote>
