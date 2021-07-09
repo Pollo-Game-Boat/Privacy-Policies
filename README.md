@@ -23,7 +23,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 
 <blockquote>
   <p><strong><b>This bot does not support <code>Do Not Track</code> requests. 
-Póllo Game Boat#0822 just takes your Username & Tag, Avatar, Discord ID.</strong></b></p>
+    <code>Póllo Game Boat#0822</code> just takes your Username & Tag, Avatar, Discord ID.</strong></b></p>
 </blockquote>
 
 ### <b>How <code>Data Removal</code> requests are handled?</b></h4>
@@ -40,4 +40,4 @@ We will wipe all of your stored Data off of our bot, on request.</strong></b></p
 It is strongly recommended to check this message often, referring to the date of the last modification listed at the bottom.</i></strong></b></p>
 </blockquote>
 
-<p><strong><b><i>If you would like to reach out to us, you can email us at <a href="mailto:Support@PolloBot.Xyz"<code>Support@PolloBot.Xyz</code></a></i>.  Or contact <code>Developer Póllo#3207</code>.</strong></b></p>
+<p><strong><b><i>If you would like to reach out to us, you can email us at <a href="mailto:Support@PolloBot.Xyz"><code>Support@PolloBot.Xyz</code></a></i>.  Or contact <code>Developer Póllo#3207</code>.</strong></b></p>
