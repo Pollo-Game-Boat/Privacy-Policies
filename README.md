@@ -1,5 +1,5 @@
 # Privacy-Policy
-The Privacy Policy for Póllo Game Bot
+Privacy Policy for Póllo Game Boat
 
 ### <strong>Our <i>Privacy Policy</i></strong>
 
@@ -9,9 +9,8 @@ The Privacy Policy for Póllo Game Bot
 <p><b>Among the types of Personal Data that this bot collects, by itself, there are:  your Discord ID & User Name & Tag, Server ID & Server Name, Channel ID & Channel Name, your Avatar, Server Icon.</p></b>
 
 <p><strong><b><i>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
-Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using @Póllo Game Bot#0822.
-Unless specified otherwise, all Data requested by this bot is mandatory and failure to provide this Data may make it impossible for this bot to provide its services. In cases where this bot specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.
-Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner, or any staff by saying `PO!staff`.</i></b></strong></p>
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using <code>Póllo Game Boat#0822</code>.
+Unless specified otherwise, all data is stored by the bot for three months or longer if we suspect abuse to our bot's services.  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact the Owner <code>Developer Póllo#3207</code>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
 </blockquote>
 
 ### <b>How <code>Do Not Track</code> requests are handled?</b></h4>
