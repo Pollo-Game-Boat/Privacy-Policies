@@ -14,14 +14,14 @@ Unless specified otherwise, all Data requested by this bot is mandatory and fail
 Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner, or any staff by saying `PO!staff`.</i></b></strong></p>
 </blockquote>
 
-### <b>How `Do Not Track` requests are handled?</b></h4>
+### <b>How <code>Do Not Track</code> requests are handled?</b></h4>
 
 <blockquote>
-<p><strong><b>This bot does not support `Do Not Track` requests. 
-@Póllo Game Bot#0822 just takes your Username & Tag, Avatar, Discord ID.</strong></b></p>
+  <p><strong><b>This bot does not support <code>Do Not Track</code> requests. 
+Póllo Game Boat#0822 just takes your Username & Tag, Avatar, Discord ID.</strong></b></p>
 </blockquote>
 
-### <b>How `Data Removal` requests are handled?</b></h4>
+### <b>How <code>Data Removal</code> requests are handled?</b></h4>
 
 <blockquote>
   <p><strong><b>This bot supports <code>Data Removal</code> Requests.
@@ -35,4 +35,4 @@ We will wipe all of your stored Data off of our bot, on request.</strong></b></p
 It is strongly recommended to check this message often, referring to the date of the last modification listed at the bottom.</i></strong></b></p>
 </blockquote>
 
-<p><strong><b><i>If you would like to reach out to us, you can email us at Support@PolloBot.Xyz</i>.  Or contact Póllo Official#3207.</strong></b></p>
+<p><strong><b><i>If you would like to reach out to us, you can email us at <a href="mailto:Support@PolloBot.Xyz"<code>Support@PolloBot.Xyz</code></a></i>.  Or contact <code>Developer Póllo#3207</code>.</strong></b></p>
