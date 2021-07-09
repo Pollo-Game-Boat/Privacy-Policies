@@ -24,7 +24,7 @@ Users who are uncertain about which Personal Data is mandatory are welcome to co
 ### <b>How `Data Removal` requests are handled?</b></h4>
 
 <blockquote>
-<p><strong><b>This bot supports `Data Removal` Requests.
+  <p><strong><b>This bot supports <code>Data Removal</code> Requests.
 We will wipe all of your stored Data off of our bot, on request.</strong></b></p>
 </blockquote>
 
