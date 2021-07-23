@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  </head>
-  <body>
 # Privacy-Policy
 Privacy Policy for Póllo Game Boat
 
@@ -49,6 +44,4 @@ It is strongly recommended that you check our Privacy Policy to stay up to date.
 <p><strong><b><i>If you would like to reach out to us, you can email us at <a href="mailto:Support@PolloBot.Xyz"><code>Support@PolloBot.Xyz</code></a></i>.  Or contact <code>Developer Póllo#3207</code>.</strong></b></p>
 <link href="/src/css/style.css" rel="stylesheet"/>
 
-### - Last Updated:<code class="clr-blue"> 3:26 AM - EDT | Friday, July 23, 2021.</code>
-</body>
-</html>
+### - Last Updated:<code class"clr-blue"> 3:26 AM - EDT | Friday, July 23, 2021.</code>
