@@ -6,7 +6,7 @@ Privacy Policy for Póllo Game Boat
 ### <b>Types of Data collections</b>
 
 <blockquote>
-<p><b>Among the types of Personal Data that our bot collects itself automatically on use, <code>Data We Store</code>: Discord ID & User Name & Tag, Server ID & Server Name, Channel ID & Channel Name, your Avatar, Server Icon.</p></b>
+<p><b>Among the types of Personal Data that our bot collects itself automatically on use, <code>Data We Store</code>: User ID, UserName, User Tag, User Avatar, Server ID, Server Name, Server Icon, Channel ID, Channel Name.</p></b>
 
 <p><strong><b><i>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using <code>Póllo Game Boat#0822</code>.
