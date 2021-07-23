@@ -10,7 +10,7 @@ Privacy Policy for Póllo Game Boat
 
 <p><strong><b><i>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using <code>Póllo Game Boat#0822</code>.
-Unless specified otherwise, all data is stored by the bot for three months or longer if we suspect abuse to our bot's services.  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact the Owner <code>Developer Póllo#3207</code>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
+Unless specified otherwise, all data is stored by the bot for three months or longer if we suspect abuse to our bot's services.  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact the owner => <code>Developer Póllo#3207</code>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
 </blockquote>
 
 ### <b>User Rights</b></h4>
@@ -22,8 +22,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 ### <b>How <code>Do Not Track</code> requests are handled?</b></h4>
 
 <blockquote>
-  <p><strong><b>This bot does not support <code>Do Not Track</code> requests. 
-    <code>Póllo Game Boat#0822</code> just takes your Username & Tag, Avatar, Discord ID.</strong></b></p>
+  <p><strong><b>We do not support <code>Do Not Track</code> requests.  <code>Póllo Game Boat#0822</code> automatically collects User ID, UserName, User Tag, User Avatar, Server ID, Server Name, Server Icon, Channel ID, & Channel Name, on use.</strong></b></p>
 </blockquote>
 
 ### <b>How <code>Data Removal</code> requests are handled?</b></h4>
