@@ -54,6 +54,6 @@ It is strongly recommended that you check our Privacy Policy to stay up to date.
 </blockquote>
 
 
-<p><strong><b><i>If you would like to reach out to us, you can email us at <a href="mailto:Support@PolloBot.Xyz"><code>Support@PolloBot.Xyz</code></a></i>.  Or contact <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or join our support server <a href="discord.gg/mMp6Jp9pDk"><code>Discord.GG/mMp6Jp9pDk</code></a>.</strong></b></p>
+<p><strong><b><i>If you would like to reach out to us, you can email us at <a href="mailto:Support@PolloBot.Xyz"><code>Support@PolloBot.Xyz</code></a></i>.  Or contact <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or join our support server <a href="https://discord.gg/mMp6Jp9pDk"><code>Discord.GG/mMp6Jp9pDk</code></a>.</strong></b></p>
 
 ### - Last Updated: <code>2:48 PM - EST | Saturday, December 11, 2021.</code>
