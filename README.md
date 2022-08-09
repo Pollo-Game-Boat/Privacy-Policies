@@ -1,5 +1,5 @@
 # Privacy-Policy
-Privacy Policy for Póllo Game Boat
+Privacy Policy for Póllo Game Boat(Eco Bot)
 
 ### <strong>Our <i>Privacy Policy</i></strong>
 
@@ -18,7 +18,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 #### <b>Welcome & Leave Images</b><br>
   
 <blockquote>
-<p><b><a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat</code></a> creates the image from the user that is ether joining or leaving the server with the following data: [User Avatar, Username, User Discriminator, Server Name, Server Member Count].  </b><br><a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat</code></a> sends the image after generation to a private channel in a private server, accessable to the bot and the owner, and takes the media url and uses it in the welcome/leave embed.  The bot doesn't delete these images sent in the private channel, if it does then the image in the welcome/leave embed would not show.</p>
+<p><b><a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat</code></a> creates the image from the user that is ether joining or leaving the server with the following data: [User Avatar, Username, User Discriminator, Server Name, Server Member Count].  </b><br><a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat</code></a> sends the image after generation to a private channel in a private server, accessable to the bot and the owner, and takes the media url and uses it in the welcome/leave embed.  The bot doesn't delete these images sent in the private channel, if it were to, then the image in the welcome/leave embed would not show and the this feature would be pointless.</p>
 </blockquote>
 
 #### <b>Auto-Moderation</b><br>
@@ -30,7 +30,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 ### <b>User Rights</b></h4>
 
 <blockquote>
-  <p><strong><b>The user has the right to not provide their data that we store, by not using the bot.</strong></b></p>
+  <p><strong><b>The user has the right to not provide their data that we store, by not using our bot.</strong></b></p>
 </blockquote>
 
 ### <b>How are <code>Do Not Track</code> requests handled?</b></h4>
@@ -56,4 +56,4 @@ It is strongly recommended that you check our Privacy Policy to stay up to date.
 
 <p><strong><b><i>If you would like to reach out to us, you can email us at <a href="mailto:Support@PolloBot.Xyz"><code>Support@PolloBot.Xyz</code></a></i>.  Or contact <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or join our support server <a href="https://discord.gg/mMp6Jp9pDk"><code>Discord.GG/mMp6Jp9pDk</code></a>.</strong></b></p>
 
-### - Last Updated: <code>2:48 PM - EST | Saturday, December 11, 2021.  </code>
+### - Last Updated: <code>11:16 PM - EST | Monday, August 8, 2021.  </code>
