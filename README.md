@@ -12,20 +12,6 @@ Privacy Policy for Póllo Game Boat(Eco Bot)
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using <a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat#0822</code></a>.  
 Unless specified otherwise, all data is stored by the bot for three months or longer if we ("Póllo Game Boat, Inc.") suspect abuse to our bot's service(s).  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact our lead developer <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
 </blockquote>
-  
-### <b>Temporary Data<b>
-  
-#### <b>Welcome & Leave Images</b><br>
-  
-<blockquote>
-<p><b><a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat</code></a> creates the image from the user that is ether joining or leaving the server with the following data: [User Avatar, Username, User Discriminator, Server Name, Server Member Count].  </b><br><a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat</code></a> sends the image after generation to a private channel in a private server, accessable to the bot and the owner, and takes the media url and uses it in the welcome/leave embed.  The bot doesn't delete these images sent in the private channel, if it were to, then the image in the welcome/leave embed would not show and the this feature would be pointless.</p>
-</blockquote>
-
-#### <b>Auto-Moderation</b><br>
-
-<blockquote>
-<p><b><a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat</code></a> does not store any message data nor cache it from this feature.  Only matches the message with our lists of racial slurs, NSFW, and vulgar words, to see if the message needs to be filtered only if the feature is enabled.</b></p>
-</blockquote>
 
 ### <b>User Rights</b></h4>
 
