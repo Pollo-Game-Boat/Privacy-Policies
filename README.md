@@ -43,7 +43,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 
 <blockquote>
   <p><strong><b>This bot supports <code>Data Removal</code> Requests.
-We will wipe all of your stored Data off of our bot including our logs from command usage, on request.</strong></b></p>
+We will wipe all of your stored Data off of our bot including our logs from command usage and db, on request.</strong></b></p>
 </blockquote>
 
 ### <b><i>Changes to this privacy policy</i></b>
@@ -56,4 +56,4 @@ It is strongly recommended that you check our Privacy Policy to stay up to date.
 
 <p><strong><b><i>If you would like to reach out to us, you can email us at <a href="mailto:Support@PolloBot.Xyz"><code>Support@PolloBot.Xyz</code></a></i>.  Or contact <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or join our support server <a href="https://discord.gg/mMp6Jp9pDk"><code>Discord.GG/mMp6Jp9pDk</code></a>.</strong></b></p>
 
-### - Last Updated: <code>11:16 PM - EST | Monday, August 8, 2021.  </code>
+### - Last Updated: <code>11:30 PM - EST | Monday, August 8, 2022.  </code>
