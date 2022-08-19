@@ -1,5 +1,5 @@
 # Privacy-Policy
-Privacy Policy for Póllo Game Boat(Eco Bot)
+Privacy Policy for Póllo Game Boat (Eco Bot)
 
 ### <strong>Our <i>Privacy Policy</i></strong>
 
@@ -22,7 +22,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 ### <b>How are <code>Do Not Track</code> requests handled?</b></h4>
 
 <blockquote>
-  <p><strong><b>We ("Póllo Game Boat, Inc.") do not support <code>Do Not Track</code> requests.  <a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat#0822</code></a> automatically collects the following [User ID, User Tag, Server ID, Server Name, Channel ID, and Channel Name], on use.</strong></b></p>
+  <p><strong><b>We ("Póllo Game Boat, LLC.") do not support <code>Do Not Track</code> requests.  <a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat#0822</code></a> automatically collects the following [User ID, User Tag, Server ID, Server Name, Channel ID, and Channel Name], on use.</strong></b></p>
 </blockquote>
 
 ### <b>How are <code>Data Removal</code> requests handled?</b></h4>
@@ -35,7 +35,7 @@ We will wipe all of your stored Data off of our bot including our logs from comm
 ### <b><i>Changes to this privacy policy</i></b>
 
 <blockquote>
-<p><strong><b><i>We ("Póllo Game Boat, Inc.") reserve the right to make changes to this privacy policy at any time with or without notice.  If we happen to notfiy our users within our server or - as far as technically wise - sending a notice to users via any contact information that we have available. 
+<p><strong><b><i>We ("Póllo Game Boat, LLC.") reserve the right to make changes to this privacy policy at any time with or without notice.  If we happen to notfiy our users within our server or - as far as technically wise - sending a notice to users via any contact information that we have available. 
 It is strongly recommended that you check our Privacy Policy to stay up to date.  Referring to the date of the last modification listed at the bottom.</i></strong></b></p>
 </blockquote>
 
