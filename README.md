@@ -10,7 +10,7 @@ Privacy Policy for Póllo Game Boat (Eco Bot)
 
 <p><strong><b><i>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using <a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat#0822</code></a>.  
-Unless specified otherwise, all data is stored by the bot for three months or longer if we ("Póllo Game Boat, Inc.") suspect abuse to our bot's service(s).  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact our lead developer <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
+Unless specified otherwise, all data is stored by the bot for three months or longer if we ("Póllo Game Boat, LLC.") suspect abuse to our bot's service(s).  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact our lead developer <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
 </blockquote>
 
 ### <b>User Rights</b></h4>
