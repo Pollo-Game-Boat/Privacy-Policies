@@ -1,5 +1,5 @@
 # Privacy-Policy
-Privacy Policy for Póllo Boat(Mod Bot)
+Privacy Policy for Póllo Boat (Mod & Utility Bot)
 
 ### <strong>Our <i>Privacy Policy</i></strong>
 
@@ -10,7 +10,7 @@ Privacy Policy for Póllo Boat(Mod Bot)
 
 <p><strong><b><i>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using <a href="https://discord.com/users/839397125846073394"><code>Póllo Boat#0588</code></a>.  
-Unless specified otherwise, all data is stored by the bot for three months or longer if we ("Póllo Game Boat, Inc.") suspect abuse to our bot's service(s).  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact our lead developer <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
+Unless specified otherwise, all data is stored by the bot for three months or longer if we ("Póllo Game Boat, LLC.") suspect abuse to our bot's service(s).  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact our lead developer <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
 </blockquote>
   
 ### <b>Temporary Data<b>
@@ -36,7 +36,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 ### <b>How are <code>Do Not Track</code> requests handled?</b></h4>
 
 <blockquote>
-  <p><strong><b>We ("Póllo Game Boat, Inc.") do not support <code>Do Not Track</code> requests.  <a href="https://discord.com/users/839397125846073394"><code>Póllo Boat#0588</code></a> automatically collects the following [User ID, User Tag, Server ID, Server Name, Channel ID, and Channel Name], on use.</strong></b></p>
+  <p><strong><b>We ("Póllo Game Boat, LLC.") do not support <code>Do Not Track</code> requests.  <a href="https://discord.com/users/839397125846073394"><code>Póllo Boat#0588</code></a> automatically collects the following [User ID, User Tag, Server ID, Server Name, Channel ID, and Channel Name], on use.</strong></b></p>
 </blockquote>
 
 ### <b>How are <code>Data Removal</code> requests handled?</b></h4>
@@ -49,7 +49,7 @@ We will wipe all of your stored Data off of our bot including our logs from comm
 ### <b><i>Changes to this privacy policy</i></b>
 
 <blockquote>
-<p><strong><b><i>We ("Póllo Game Boat, Inc.") reserve the right to make changes to this privacy policy at any time with or without notice.  If we happen to notfiy our users within our server or - as far as technically wise - sending a notice to users via any contact information that we have available. 
+<p><strong><b><i>We ("Póllo Game Boat, LLC.") reserve the right to make changes to this privacy policy at any time with or without notice.  If we happen to notfiy our users within our server or - as far as technically wise - sending a notice to users via any contact information that we have available. 
 It is strongly recommended that you check our Privacy Policy to stay up to date.  Referring to the date of the last modification listed at the bottom.</i></strong></b></p>
 </blockquote>
 
