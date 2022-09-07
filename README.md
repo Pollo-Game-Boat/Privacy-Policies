@@ -1,4 +1,4 @@
-# <div><a href="../"><img src="https://pollobot.xyz/Rebrand-PGB.webp" alt="Landing Area" width="50" height="60" align="left" padding="" style="padding-bottom: 10px"/></a>Privacy-Policy</div>
+# <div><a href="../../"><img src="https://pollobot.xyz/Rebrand-PGB.webp" alt="Landing Area" width="50" height="60" align="left" padding="" style="padding-bottom: 10px"/></a>Privacy-Policy</div>
 Privacy Policy for Póllo Boat (Mod & Utility Bot)
 
 ### <strong>Our <i>Privacy Policy</i></strong>
