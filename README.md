@@ -6,7 +6,7 @@ Privacy Policy for Póllo Boat (Mod & Utility Bot)
 ### <b>Types of Data Collections</b>
 
 <blockquote>
-<p><b>Among the types of Personal Data that our bot collects itself automatically on use, <code>Data We Store:</code> User ID, User Tag, Server ID, Server Name, Channel ID, Channel Name.<br><code>Data We Don't Store:</code> Who visits our website(s), we don't store or fetch your IP when on our website(s).<b></p>
+<p><b>Among the types of Personal Data that our bot collects itself automatically on use, <code>Data We Store:</code> User ID, User Username, User Discriminator, Server ID, Server Name, Prefix, Channel ID, Channel Name.<br><code>Data We Don't Store:</code> Who visits our website(s), we don't store or fetch your IP when on our website(s).<b></p>
 
 <p><strong><b><i>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using <a href="https://discord.com/users/839397125846073394"><code>Póllo Boat#0588</code></a>.  
@@ -36,7 +36,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 ### <b>How are <code>Do Not Track</code> requests handled?</b></h4>
 
 <blockquote>
-  <p><strong><b>We ("Póllo Game Boat") do not support <code>Do Not Track</code> requests.  <a href="https://discord.com/users/839397125846073394"><code>Póllo Boat#0588</code></a> automatically collects the following [User ID, User Tag, Server ID, Server Name, Prefix, Channel ID, and Channel Name], on use.</strong></b></p>
+  <p><strong><b>We ("Póllo Game Boat") do not support <code>Do Not Track</code> requests.  <a href="https://discord.com/users/839397125846073394"><code>Póllo Boat#0588</code></a> automatically collects the following: [User ID, User Username, User Discriminator, Server ID, Server Name, Prefix, Channel ID, and Channel Name], on use.</strong></b></p>
 </blockquote>
 
 ### <b>How are <code>Data Removal</code> requests handled?</b></h4>
