@@ -30,7 +30,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 ### <b>User Rights</b></h4>
 
 <blockquote>
-  <p><strong><b>The user has the right to not provide their data that we store, by not using our bot.</strong></b></p>
+  <p><strong><b>The user has the right to not provide their Data that we store, by not using our bot.</strong></b></p>
 </blockquote>
 
 ### <b>How are <code>Do Not Track</code> requests handled?</b></h4>
@@ -46,7 +46,7 @@ Unless specified otherwise, all data is stored by the bot for three months or lo
 We will wipe all of your stored Data off our bot including our logs of command usage and db, on request.</strong></b></p>
 </blockquote>
 
-### <b><i>Changes to this privacy policy</i></b>
+### <b><i>Changes to this Privacy Policy</i></b>
 
 <blockquote>
 <p><strong><b><i>We ("Póllo Game Boat") reserve the right to make changes to this privacy policy at any time with or without notice.  If we happen to notfiy our users within our server or - as far as technical wise - sending a notice to users via any contact information that we have available. 
