@@ -1,4 +1,4 @@
-# <div><a href="../../"><img src="https://pollobot.xyz/Rebrand-PGB.webp" alt="Landing Area" width="50" height="60" align="left" title="Return to the Policies Landing Area"/></a>Privacy-Policy</div>
+# <div><a href="../../"><img src="https://cdn.pollobot.xyz/assets/Rebrand-PGB.webp" style="padding-left: 6px; padding-bottom: 3px" alt="Landing Area" width="60" height="60" align="left" title="Return to the Policies Landing Area"/></a>Privacy-Policy</div>
 Privacy Policy for Póllo Game Boat (Eco Bot)
 
 ### <strong>Our <i>Privacy Policy</i></strong>
@@ -6,23 +6,23 @@ Privacy Policy for Póllo Game Boat (Eco Bot)
 ### <b>Types of Data Collections</b>
 
 <blockquote>
-<p><b>Among the types of Personal Data that our bot collects itself automatically on use, <code>Data We Store:</code> User ID, User Username, User Discriminator, Server ID, Server Name, Prefix, Channel ID, Channel Name.<br><code>Data We Don't Store:</code> Who visits our website(s), we don't store or fetch your IP when on our website(s).<b></p>
+<p><b>Among the types of Personal Data that our bot collects itself automatically on use, User ID, User Username, User Discriminator, Server ID, Server Name, Prefix, Channel ID, Channel Name.</p>
 
 <p><strong><b><i>Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data Collection.
-Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using <a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat#0822</code></a>.  
-Unless specified otherwise, all data is stored by the bot for three months or longer if we ("Póllo Game Boat") suspect abuse to our bot's service(s).  Users who are unsure about which Personal Data is stored or needs a better understanding, are welcome to contact our lead developer <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or any staff by saying <code>PO!staff</code>.</i></b></strong></p>
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using <a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat</code></a>.  
+Unless specified otherwise, all data is stored by the bot for three months or longer if we ("Póllo Game Boat") suspect abuse to our bot's service(s).  Users who are still unsure about what Personal Data is stored or have any further questions, are welcome to contact our <a href="mailto:privacy@pollobot.xyz">Data Management</a> team.</i></b></strong></p>
 </blockquote>
 
 ### <b>User Rights</b></h4>
 
 <blockquote>
-  <p><strong><b>The user has the right to not provide their ata that we store, by not using our bot.</strong></b></p>
+  <p><strong><b>The user has the right to delete their their data at anytime by requesting deletion of their data various ways by <a href="mailto:privacy@pollobot.xyz">email</a>, <a href="https://discord.gg/mMp6Jp9pDk">Discord</a>, or on the <a href="https://dash.pollobot.xyz/">dashboard</a>.</strong></b></p>
 </blockquote>
 
 ### <b>How are <code>Do Not Track</code> requests handled?</b></h4>
 
 <blockquote>
-  <p><strong><b>We ("Póllo Game Boat") do not support <code>Do Not Track</code> requests.  <a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat#0822</code></a> automatically collects the following: [User ID, User Username, User Discriminator, Server ID, Server Name, Prefix, Channel ID, and Channel Name], on use.</strong></b></p>
+  <p><strong><b>We ("Póllo Game Boat") do not support <code>Do Not Track</code> requests.  <a href="https://discord.com/users/815345379952033812"><code>Póllo Game Boat</code></a> automatically collects the following: [User ID, User Username, User Discriminator, Server ID, Server Name, Prefix, Channel ID, and Channel Name], on use.</strong></b></p>
 </blockquote>
 
 ### <b>How are <code>Data Removal</code> requests handled?</b></h4>
@@ -40,6 +40,6 @@ It is strongly recommended that you check our Privacy Policy to stay up to date.
 </blockquote>
 
 
-<p><strong><b><i>If you would like to reach out to us, you can email us at <a href="mailto:Support@PolloBot.Xyz"><code>Support@PolloBot.Xyz</code></a></i>.  Or contact <a href="https://discord.com/users/786297097308864593"><code>Developer Póllo#3207</code></a>, or join our support server <a href="https://discord.gg/mMp6Jp9pDk"><code>Discord.GG/mMp6Jp9pDk</code></a>.</strong></b></p>
+<p><strong><b><i>If you have any further questions email us at <a href="mailto:support@pollobot.xyz"><code>Support@PolloBot.Xyz</code></a></i>, or ask in our support server <a href="https://discord.gg/mMp6Jp9pDk"><code>Discord.GG/mMp6Jp9pDk</code></a>.</strong></b></p>
 
-### - Last Updated: <code>6:50 PM - EST | Wednesday, September 7, 2022.  </code>
+### - Last Updated: <code>8:00 PM - EST | Saturday, August 5, 2023.  </code>
